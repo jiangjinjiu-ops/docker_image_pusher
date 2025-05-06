@@ -7,4 +7,4 @@ xhofe/alist:latest
 redis
 ubuntu:16.04
 openjdk:8-jre-alpine
-nacos/nacos-server
+nacos/nacos-server:1.4.1
